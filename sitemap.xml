@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.test.com/index.html</loc>
+    <lastmod>2019-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.test.com/images/logo_white_sm.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.test.com/images/fiks.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.test.com/images/mobile.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.test.com/images/001-business.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.test.com/images/002-video.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.test.com/images/003-computer-02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.test.com/images/004-design.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.test.com/images/003-computer-03.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.test.com/images/003-computer-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.test.com/images/bts_box.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.test.com/images/mvno_box.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.test.com/images/logo_blue_sm.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
